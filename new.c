@@ -805,7 +805,6 @@ int main(){
 */
  
 //WAP TO PRINT PATTERNS / PYRAMIDS
-//(done in java file already)
 
 
 //	SO TILL NOW C IS COMPLETED TILL LOOPS
